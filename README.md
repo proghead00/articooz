@@ -1,7 +1,7 @@
-# Articooz
-## A full-stack platform to post  blogs and articles, follow each other, and even have conversations.
+# Articooz 🖊📝
+## A full-stack platform to post  blogs and articles, follow each other, and even have conversations. 
 
-## [Live Site](https://articooz.herokuapp.com/)
+## ➡ [Live Site](https://articooz.herokuapp.com/) ⬅
 ---
 ## Screenshots
 
