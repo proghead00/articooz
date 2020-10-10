@@ -2,7 +2,7 @@
 ## A platform to post blogs and articles, follow each other, and even have conversations. 
 
 ## ➡ [Live Site](https://articooz.herokuapp.com/) ⬅
----
+
 ## Screenshots
 
 ![Screenshot_1](https://user-images.githubusercontent.com/55017730/95657427-201d6600-0b32-11eb-9599-4e0aa21a26a5.png)
